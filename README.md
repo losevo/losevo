@@ -4,7 +4,6 @@ This is the place where I learning React and TypeScript 👨‍💻
 
 - 🌱 I'm currently open to full-time work
 - 👥 Meetups visted: A.Frontend#2 (by Alfa bank), Vertis JS (by Yandex)
-- 🤣 Ask me about coffee. This is my former job
 
 ![](https://wakapi.dev/api/badge/losevo/losevo/interval:30_days?label=last%2030d)
 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/losevo/interval:all_time&label=Code%20time&color=blue)
