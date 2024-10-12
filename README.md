@@ -2,8 +2,8 @@
 
 This is the place where I learning React and TypeScript 👨‍💻
 
-- 🌱 I'm currently open to full-time work
-- 👥 Meetups visted: A.Frontend#2 (by Alfa bank), Vertis JS (by Yandex)
+- 🌱 I'm currently work at Amio
+- 👥 Meetups visited: A.Frontend#2 (by Alfa bank), Vertis JS (by Yandex)
 
 ![](https://wakapi.dev/api/badge/losevo/losevo/interval:30_days?label=last%2030d)
 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/losevo/interval:all_time&label=Code%20time&color=blue)
@@ -16,6 +16,7 @@ This is the place where I learning React and TypeScript 👨‍💻
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
