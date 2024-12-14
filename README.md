@@ -5,7 +5,7 @@ This is the place where I learning React and TypeScript 👨‍💻
 - 🌱 I'm currently work at Amio
 - 👥 Meetups visited: A.Frontend#2 (by Alfa bank), Vertis JS (by Yandex)
 
-[![coding](https://wakatime.com/badge/user/658672d9-b0f4-42f2-a9bc-450622dcfde5.svg)](https://wakatime.com/@658672d9-b0f4-42f2-a9bc-450622dcfde5)
+[![code time](https://wakatime.com/badge/user/658672d9-b0f4-42f2-a9bc-450622dcfde5.svg)](https://wakatime.com/@658672d9-b0f4-42f2-a9bc-450622dcfde5)
 <img src="https://komarev.com/ghpvc/?username=losevo&color=brightgreen" alt="watching_count" />
 ![](https://www.codewars.com/users/losevo/badges/micro)
 
