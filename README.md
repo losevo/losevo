@@ -3,7 +3,7 @@
 This is the place where I learning React and TypeScript 👨‍💻
 
 - 🌱 I'm currently work at Amio
-- 👥 Meetups visited: A.Frontend#2 (by Alfa bank), Vertis JS (by Yandex)
+- 👥 Meetups visited: A?.Frontend#2 (by Alfa bank), Vertis JS (by Yandex), A?.Frontend Christmas Party (by Alfa Bank)
 
 ![](https://wakapi.dev/api/badge/losevo/losevo/interval:30_days?label=last%2030d)
 [![](https://wakatime.com/badge/user/658672d9-b0f4-42f2-a9bc-450622dcfde5.svg)](https://wakatime.com/@658672d9-b0f4-42f2-a9bc-450622dcfde5)
